@@ -62,7 +62,7 @@ We used the following PLA filaments from Bambu Lab for our prints but you can us
     - Blue: [PLA Basic - Blue](https://us.store.bambulab.com/products/pla-basic-filament?id=41142110093448)
     - Bright Green: [PLA Basic - Bright Green](https://us.store.bambulab.com/products/pla-basic-filament?id=43045598167176)
 
-## Other Awesome GitHub 3D Printing Projects
+## Other Awesome GitHub Themed 3D Printing Projects
 
 Already printed your favorite mascots and looking for more? Check out these repos for your next print job to send to your printer.
 
