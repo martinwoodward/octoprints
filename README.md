@@ -8,7 +8,7 @@ GitHub's all-star mascots, now ready to 3D print. [Rubber duck debugging](https:
 
 Each mascot has its own folder with STL files for printing, as well as optional 3MF files for multi-color prints and other optimized configurations.
 
-- [Mona](./models/mona) - Every developer's best friend forever.
+- [Mona](./models/mona) - The GitHub Octocat. Every developer's best friend forever.
 - [Copilot](./models/copilot) - Your AI pair programmer to get stuff done.
 - [Ducky](./models/ducky) - Always ready to listen but will never judge.
 
@@ -68,3 +68,9 @@ Already printed your favorite mascots and looking for more? Check out these repo
 
 - [martinwoodward/octolamp](https://github.com/martinwoodward/octolamp) - A 3D printed, GitHub infused, smart light.
 - [chriswblake/github-copilot-lamp](https://github.com/chriswblake/github-copilot-lamp) - A fun and playful lamp to match the energy of GitHub Copilot.
+
+## License
+This project is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) License](https://creativecommons.org/licenses/by-nc/4.0/). You are free to share and adapt the material, but not for commercial purposes, and you must give appropriate credit, provide a link to the license, and indicate if changes were made.
+
+The mascots are used with permission of GitHub. Use of GitHub trademarks or logos must not cause confusion or imply GitHub sponsorship or affiliation. Any use of third-party trademarks or logos are subject to those third-party's policies.
+
