@@ -25,7 +25,7 @@ Within each folder, you'll find:
 We printed these models using [Bambu Studio](https://bambulab.com/en/download/studio) and a [Bambu Lab X1C printer](https://us.store.bambulab.com/products/x1-carbon) with an AMS (Automatic Material System). The 3MF files in each model's folder are set up for this printer and software, but you can adapt them for other multi-color printing setups.
 
 > [!TIP]
-> The nature of Bambu Lab's AMS means that there is a certain amount of filament waste when switching colors. We recommend carefully reviewing the slice results in Bambu Studio before printing to understand how much filament will be consumed. A great way to minimize the relative waste is to print multiple copies of a model in a single print job. While the waste will be the same, it will be a smaller percentage of the total filament used.
+> The nature of Bambu Lab's AMS means that there is a certain amount of filament waste when switching colors. We recommend carefully reviewing the slice results in Bambu Studio before printing to understand how much filament will be consumed. With dual nozzle printers like the [H2D](https://us.store.bambulab.com/products/h2d), the waste is much reduced but a great way to minimize the relative waste on a single nozzle printer is to print multiple copies of a model in a single print job. While the waste will be the same, it will be a smaller percentage of the total filament used.
 
 Multiple colors not your jam? The mascots look great in a single color too. Maybe a bit of paint to add some details after printing? Go wild and share what you create with us! See [Filament Colors](#filament-colors) for our recommended colors.
 
