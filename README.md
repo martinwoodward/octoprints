@@ -6,7 +6,7 @@ GitHub's all-star mascots, now ready to 3D print. [Rubber duck debugging](https:
 
 ## Models
 
-Each mascot has its own folder with STL files for printing, as well as optional 3MF files for multi-color prints and other optimized configurations.  Note that the origina GitHub macots have all been built by some incredibly talented 3D designers for on-screen use and then interpreted and adapted for FDM 3D printing by us hacks. Flaws and issues you find in the models are entirely our fault, but we welcome contributions if you have fixes you would like to see.
+Each mascot has its own folder with STL files for printing, as well as optional 3MF files for multi-color prints and other optimized configurations.  Note that the original GitHub mascots have all been built by some incredibly talented 3D designers for on-screen use and then interpreted and adapted for FDM 3D printing by us hacks. Flaws and issues you find in the models are entirely our fault, but we welcome contributions if you have fixes you would like to see.
 
 - [Mona](./models/mona) - The GitHub Octocat. Every developer's best friend forever.
 - [Copilot](./models/copilot) - Your AI pair programmer to get stuff done.
