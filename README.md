@@ -74,5 +74,5 @@ Already printed your favorite mascots and looking for more? Check out these repo
 ## License
 This project is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) License](https://creativecommons.org/licenses/by-nc/4.0/). You are free to share and adapt the material, but not for commercial purposes, and you must give appropriate credit, provide a link to the license, and indicate if changes were made.
 
-The mascots are used with permission of GitHub. Use of GitHub trademarks or logos must not cause confusion or imply GitHub sponsorship or affiliation. Any use of third-party trademarks or logos are subject to those third-party's policies.
+The mascots are used with permission of GitHub. Use of GitHub trademarks or logos must not cause confusion or imply GitHub sponsorship or affiliation. Any use of third-party trademarks or logos is subject to those third-party policies.
 
