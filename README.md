@@ -19,6 +19,7 @@ Within each folder, you'll find:
    - See [_Multi-color printing_](#multi-color-printing) for more details.
 - A 3MF file configured for multi-color printing with Bambu Studio along with voids to add items during printing.
    - See [_Additions During Printing_](#additions-during-printing) for more details.
+- A 3MF file with a full X1C build plate with as many models as will fit for batch printing.
 
 If you print your own, we would LOVE to see it.  [Share your Octoprint builds here](https://github.com/martinwoodward/octoprints/discussions/categories/show-us-your-builds).  If you are coming along to [GitHub Universe 2025](https://githubuniverse.com/), feel free to bring some along to our Makerspace where we'll have some others that you might want to trade.
 
