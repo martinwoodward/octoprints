@@ -6,7 +6,7 @@ GitHub's all-star mascots, now ready to 3D print. [Rubber duck debugging](https:
 
 ## Models
 
-Each mascot has its own folder with STL files for printing, as well as optional 3MF files for multi-color prints and other optimized configurations.
+Each mascot has its own folder with STL files for printing, as well as optional 3MF files for multi-color prints and other optimized configurations.  Note that the original GitHub mascots have all been built by some incredibly talented 3D designers for on-screen use and then interpreted and adapted for FDM 3D printing by us hacks. Flaws and issues you find in the models are entirely our fault, but we welcome contributions if you have fixes you would like to see.
 
 - [Mona](./models/mona) - The GitHub Octocat. Every developer's best friend forever.
 - [Copilot](./models/copilot) - Your AI pair programmer to get stuff done.
@@ -19,6 +19,8 @@ Within each folder, you'll find:
    - See [_Multi-color printing_](#multi-color-printing) for more details.
 - A 3MF file configured for multi-color printing with Bambu Studio along with voids to add items during printing.
    - See [_Additions During Printing_](#additions-during-printing) for more details.
+
+If you print your own, we would LOVE to see it.  [Share your Octoprint builds here](https://github.com/martinwoodward/octoprints/discussions/categories/show-us-your-builds).  If you are coming along to [GitHub Universe 2025](https://githubuniverse.com/), feel free to bring some along to our Makerspace where we'll have some others that you might want to trade.
 
 ## Multi-color printing
 
@@ -72,5 +74,5 @@ Already printed your favorite mascots and looking for more? Check out these repo
 ## License
 This project is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) License](https://creativecommons.org/licenses/by-nc/4.0/). You are free to share and adapt the material, but not for commercial purposes, and you must give appropriate credit, provide a link to the license, and indicate if changes were made.
 
-The mascots are used with permission of GitHub. Use of GitHub trademarks or logos must not cause confusion or imply GitHub sponsorship or affiliation. Any use of third-party trademarks or logos are subject to those third-party's policies.
+The mascots are used with permission of GitHub. Use of GitHub trademarks or logos must not cause confusion or imply GitHub sponsorship or affiliation. Any use of third-party trademarks or logos is subject to those third-party policies.
 
