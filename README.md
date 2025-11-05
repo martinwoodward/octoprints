@@ -46,6 +46,14 @@ Adding the magnet and washer gives the models a nice weight and helps them stay 
 > [!TIP]
 > The space to add the magnet and washer is designed to be a bit larger than the actual items to make it easier to insert them during printing and avoid damage to the print nozzle. We've had great success adding a few drops of super glue onto the bottom void surfaces before inserting the magnet and washer to help keep them securely in place.
 
+## Accessories
+
+Mona's whiskers are prone to breaking during travel. To help protect them, we designed a simple whisker guard that can be printed separately and attached to Mona after printing. The guard fits over Mona's face and provides extra support for the whiskers, reducing the risk of breakage. The whisker guard files can be found in the [Mona model folder](./models/mona).
+
+<img src="images/mona_whisker_guard.png" alt="Demonstration of Mona using her whisker guard." width="400" />
+
+Mona's whiskers help her sense whether she can fit through narrow code paths without getting caught in bugs, so keep them protected!
+
 ## Filament Colors
 
 We used the following PLA filaments from Bambu Lab for our prints but you can use any brand, type, or color of filament you prefer.
